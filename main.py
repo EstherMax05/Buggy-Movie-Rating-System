@@ -61,4 +61,6 @@ sample_movie_data = [
 
 library = MovieLibrary(sample_movie_data)
 library.print_movies_rated_at_least(5)
-# library.feeling_lucky()
+library.print_movies_rated_at_least(2)
+library.print_movies_rated_at_least(4)
+
