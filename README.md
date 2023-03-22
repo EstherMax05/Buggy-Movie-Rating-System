@@ -8,4 +8,10 @@ At minimum:
 
 We already covered most of these bugs in class but there are some other bugs I left for you to find and squash.
 
-## Good luck!
+## Rubric
+* Squash bugs covered in class - 70%
+* Squash wild bugs - 30%
+
+(Each bug is weighted evenly within its section - i.e. covered in class or not covered in class)
+
+### Good luck!
